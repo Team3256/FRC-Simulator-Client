@@ -11,7 +11,7 @@ public class SwervedriveSimClient {
     private DatagramSocket socket;
     private InetAddress address;
     private int port;
-    RobotData data;
+    public RobotData data;
     private ObjectWriter ow = new ObjectMapper().writer().withDefaultPrettyPrinter();
 
     public SwervedriveSimClient(String simAddress, int simPort) throws SocketException, UnknownHostException {
