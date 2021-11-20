@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FRC-Simulator-Client-Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FRC_Simulator_Client_Java_jar</output-path>
+    <root id="archive" name="FRC-Simulator-Client-Java.jar">
+      <element id="module-output" name="FRC-Simulator-Client-Java" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.5/jackson-databind-2.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.7.0/jackson-annotations-2.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.7.5/jackson-core-2.7.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
