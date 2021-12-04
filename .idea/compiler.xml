@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="FRC-Simulator-Client-Java.main" target="11" />
       <module name="FRC-Simulator-Client-Java.test" target="11" />
+      <module name="FRC_Sim_Client.main" target="11" />
+      <module name="FRC_Sim_Client.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

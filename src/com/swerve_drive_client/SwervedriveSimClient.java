@@ -43,7 +43,7 @@ public class SwervedriveSimClient {
             socket.send(packet);
         }
     }
-    public void checkData() {
+    public void checkData() throws IOException {
         try {
             String json = ow.writeValueAsString(data);
             System.out.println(json);

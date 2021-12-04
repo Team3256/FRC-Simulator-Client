@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FRC-Simulator-Client-Java.iml" filepath="$PROJECT_DIR$/FRC-Simulator-Client-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FRC-Simulator-Client-Java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FRC-Simulator-Client-Java.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FRC-Simulator-Client-Java.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FRC-Simulator-Client-Java.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FRC_Sim_Client.iml" filepath="$PROJECT_DIR$/.idea/modules/FRC_Sim_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FRC_Sim_Client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FRC_Sim_Client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FRC_Sim_Client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FRC_Sim_Client.test.iml" />
     </modules>
   </component>
 </project>
